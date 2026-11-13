@@ -18,6 +18,7 @@ Este repositório apresenta o protótipo de alta fidelidade desenvolvido no Figm
 
 ​Por se tratar de um protótipo de aplicativo mobile focado em interface e fluxo de navegação, a visualização é feita diretamente no Figma.
 ​Para testar a interatividade (clicar nos botões de login, navegar entre as abas da biblioteca, favoritar músicas e acionar os comandos do player), acesse o link abaixo e clique no botão de "Play" (Present) ou abra através do aplicativo do Figma no telemóvel.
+
 ​Link de Acesso ao Protótipo:
 
 ​https://www.figma.com/proto/hiEhStz58PmIKewWlRQ8BW/Com-mudan%C3%A7as?node-id=1-373&starting-point-node-id=1%3A373&t=4rNIIm2wuEMXaZyc-1
